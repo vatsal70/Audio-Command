@@ -1,2 +1,2 @@
 # Audio-Command
-Works as assistant(beginner level)
+Works as voice assistant(beginner level)
